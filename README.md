@@ -19,7 +19,7 @@ D:\Program Files (x86)\Tencent\QQGAME\hlddzSDK\data\hlddz.pkg (QQ游戏2014 欢�
 ![image](https://github.com/zym2014/PKGDecodeTool/blob/master/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)<br>
 
 Windows安装包下载地址：<br>
-http://pan.baidu.com/s/1jGBs82E<br><br>
+http://pan.baidu.com/s/1jGBs82E<br>
 
 开源项目地址：<br>
 https://github.com/zym2014/PKGDecodeTool<br>
