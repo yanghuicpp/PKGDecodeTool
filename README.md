@@ -1,2 +1,26 @@
-# PKGDecodeTool
-QQ游戏PKG资源包解密工具
+﻿# PKGDecodeTool
+本程序使用Python2.7 + PyQt4编写，可用于QQ游戏的pkg资源包解密，提取pkg资源包内的图片资源。
+
+文件列表：
+PKGDecodeTool.ui：使用QtDesigner(Qt设计师)生成的界面描述文件
+PKGDecodeTool_ui.py：pyuic4生成的python界面代码文件
+PKGDecodeTool.py：主程序python逻辑处理代码文件
+PKGDecodeTool.exe：PKG资源包解密工具主程序，使用pyinstaller-1.5.1打包。
+MIF2BMP.7z：网上一位兄弟所写的将QQ资源里面的*.mif文件转换为*.bmp的程序，没有源代码，程序里面没有用到，仅提供参考。
+mif2png.zip：作者同上，将QQ资源里面的*.mif文件转换为*.png的程序，没有源代码，程序里面没有用到，仅提供参考。
+
+QQ游戏pkg资源包存放路径示例：
+D:\Program Files (x86)\Tencent\QQGAME\hlddzSDK\data\hlddz.pkg (QQ游戏2014 欢乐斗地主)
+
+声明：
+程序所提取的QQ游戏资源图片的版权依法为腾迅公司所有，只供个人学习研究使用，勿用于非法用途，否则后果自负。
+
+Windows安装包下载地址：
+http://pan.baidu.com/s/1jGBs82E
+
+开源项目地址：
+https://github.com/zym2014/PKGDecodeTool
+
+作者Blog：
+http://zym.cnblogs.com
+http://blog.csdn.net/zym_123456
